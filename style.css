@@ -1,0 +1,16 @@
+*{margin:0;
+padding:0;
+
+}
+body{
+background-image:url("horror.jpg");
+background-size:cover; 
+background-repeat:repeat;
+background-color: antiquewhite;
+background-position: 50px;
+}
+model-viewer{
+height: 500px;
+width:auto;
+margin-left:500px;
+}
